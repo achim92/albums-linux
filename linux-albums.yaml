@@ -27,7 +27,7 @@ spec:
             - name: PORT
               value: "80"
             - name: RESOURCE
-              value: "albums-linux" 
+              value: "albums-linux1" 
       nodeSelector:
         kubernetes.io/os: linux
 ---
